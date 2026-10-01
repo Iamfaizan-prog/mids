@@ -20,6 +20,15 @@ char person []="faizan";
 printf("the name of the person is %s\n",person);
 
 
+// increment pre and post same for dec 
+
+ 
+    a=3;
+    b=5;
+    a=b++;
+    printf("%d\n",a);
+
+
 return 0 ;
 
 }
